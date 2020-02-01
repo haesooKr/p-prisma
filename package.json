@@ -6,6 +6,7 @@
   "author": "haesooKr <gotn676@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^2.0.2"
   }
 }
