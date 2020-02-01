@@ -6,7 +6,11 @@
   "author": "haesooKr <gotn676@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "babel-cli": "^6.26.0",
     "graphql-yoga": "^1.18.3",
     "nodemon": "^2.0.2"
+  },
+  "script": {
+    "dev": "nodemon --exec babel-node src/server.js"
   }
 }
