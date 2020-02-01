@@ -1,0 +1,11 @@
+{
+  "name": "p-prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/haesooKr/p-prisma.git",
+  "author": "haesooKr <gotn676@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
