@@ -1,0 +1,27 @@
+type Ramen {
+  id: ID! @id
+  name: String!
+  price: Int!
+  unit: Int!
+}
+
+type Beverage {
+  id: ID! @id
+  name: String!
+  price: Int!
+  unit: Int!
+}
+
+type Meal {
+  id: ID! @id
+  name: String!
+  price: Int!
+  unit: Int!
+}
+
+type Snack {
+  id: ID! @id
+  name: String!
+  price: Int!
+  unit: Int!
+}
